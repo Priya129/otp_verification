@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "772675378330",
+    "project_id": "otpproject-77266",
+    "storage_bucket": "otpproject-77266.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:772675378330:android:e0dd996313f7223b425323",
+        "android_client_info": {
+          "package_name": "com.example.otp_verification_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDADIq0VJvC9kd-SzP_nyHHo0VXT4QAo8o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
